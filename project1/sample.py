@@ -38,4 +38,4 @@ if cond == ref:
     print(True," ",cond," is equal to the ref ", ref)
 elif cond != ref:
     print(False," ",cond," is not equal to the ref ", ref)
-    print("Sansern Patanasitthiseree")
+    print("Sansern ")

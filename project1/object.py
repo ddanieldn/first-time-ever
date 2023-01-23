@@ -12,4 +12,5 @@ x = np.arange(0,100)
 y = function(x)
 
 plt.plot(x,y)
+print("Hello World!")
 plt.show()
